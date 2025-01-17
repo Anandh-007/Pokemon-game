@@ -1,9 +1,9 @@
 # Pokemon-game
 A simple Pokémon application built using React for the frontend and Node.js with Express and MongoDB for the backend. The app allows users to browse Pokémon, view their details, and explore similar Pokémon based on their types.
 
-Features
+# Features
 
-Frontend
+# Frontend
 
 Paginated list of Pokémon.
 
@@ -15,7 +15,7 @@ View Pokémon details, including stats and similar Pokémon.
 
 Navigation between pages and Pokémon details.
 
-Backend
+# Backend
 
 API to fetch paginated Pokémon data.
 
@@ -23,9 +23,9 @@ API to fetch detailed Pokémon data and similar Pokémon.
 
 MongoDB integration for data storage.
 
-Technologies Used
+# Technologies Used
 
-Frontend
+# Frontend
 
 React
 
@@ -33,7 +33,7 @@ React Router DOM
 
 Axios
 
-Backend
+# Backend
 
 Node.js
 
@@ -43,7 +43,7 @@ MongoDB (Mongoose)
 
 CORS middleware
 
-Prerequisites
+# Prerequisites
 
 Before running the application, ensure you have the following installed:
 
@@ -51,18 +51,18 @@ Node.js (v14 or later)
 
 MongoDB
 
-Setup Instructions
+# Setup Instructions
 
 Clone the Repository
 
 git clone https://github.com/your-username/pokemon-app.git
 cd pokemon-app
 
-Backend Setup
+# Backend Setup
 
 Navigate to the backend folder.
 
-Install dependencies:
+# Install dependencies:
 
 npm install
 
@@ -75,7 +75,7 @@ node server.js
 
 The backend will be available at http://localhost:5000.
 
-Frontend Setup
+# Frontend Setup
 
 Navigate to the frontend folder.
 
