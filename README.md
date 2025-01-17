@@ -73,8 +73,6 @@ Start the backend server:
 
 node server.js
 
-The backend will be available at http://localhost:5000.
-
 # Frontend Setup
 
 Navigate to the frontend folder.
@@ -87,4 +85,4 @@ Start the frontend development server:
 
 npm start
 
-The frontend will be available at http://localhost:3000.
+The Webpage will be available at http://localhost:5000.
